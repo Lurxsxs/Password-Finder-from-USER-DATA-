@@ -1,7 +1,9 @@
 # PasswordCompiler
-!WARNING!   !WARNING!   !WARNING!   !WARNING!
+
+!!! WARNING !!!
+
 WE TAKE NO RESPONSABILITY FOR THE USE OF THIS TOOL!
-!WARNING!   !WARNING!   !WARNING!   !WARNING!
+
 --------------------------------------------------------------
 HOW TO USE | GUIDE 
 

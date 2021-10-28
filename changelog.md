@@ -13,3 +13,8 @@ Version |
 1.5	| added DD/MM variable
 	|
 1.5.2	| bug fix
+	|
+1.6	| added empty files, choose whether to insert special characters (1,5MLN password)
+	|
+	| 
+	|

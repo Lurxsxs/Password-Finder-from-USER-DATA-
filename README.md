@@ -1,4 +1,10 @@
-# PasswordCompiler
+# PasswordCompiler by Bruteam
+
+WHAT DOES HE DO?
+
+This script generates possible passwords from personal data
+
+--------------------------------------------------------------
 
 !!! WARNING !!!
 

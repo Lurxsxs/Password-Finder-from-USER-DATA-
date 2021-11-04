@@ -1,4 +1,4 @@
-# PasswordCompiler by Bruteam
+# PasswordFinder by Bruteam
 
 WHAT DOES HE DO?
 

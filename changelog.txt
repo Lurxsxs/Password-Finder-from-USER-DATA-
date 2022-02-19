@@ -1,4 +1,4 @@
-Version | 
+Version | update info
 	|
 1.O	| 1st release
 	|
@@ -12,9 +12,17 @@ Version |
 	|
 1.5	| added DD/MM variable
 	|
+1.5.1	| bug fix (open file wasn't working)
+	|
 1.5.2	| bug fix
 	|
 1.6	| added empty files, choose whether to insert special characters
 	|
-1.6.1	| added email, (2MLN password)
+1.7	| added email, (2MLN password)
 	|
+1.7.1	| added pet
+	|
+1.7.2   | bug fix (data entry control fixed)
+	|
+1.7.3	| bug fix for linux user
+	
